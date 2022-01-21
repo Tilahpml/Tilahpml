@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Tilahpml
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-User$: pkg, apt, pip, pip2, gem, sy,git clone,git
-Klik :instal
-Akhir: update && upgrade, python,python2,ruby,https/rgitbuk.com, 
-
-Selamat mencoba ya 
+$pkg update && upgrade
+$pkg install git
+$pkg install python2
+$pip2 install mechanize
+$git clone https://github.com/Tilahpml/patch-1
+$cd patch-1
+$sh pacth-1.sh
