@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @Tilahpml
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hack fb
 
-User$: pkg, apt, pip, pip2, gem, sy,git clone,git
-Klik :instal
-Akhir: update && upgrade, python,python2,ruby,https/rgitbuk.com, 
-
-Selamat mencoba ya 
+$pkg update && pkg upgrade
